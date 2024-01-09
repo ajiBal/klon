@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ROOTFS_DIR=/uban
+ROOTFS_DIR=uban
 export PATH=$PATH:~/.local/usr/bin
 
 max_retries=50
